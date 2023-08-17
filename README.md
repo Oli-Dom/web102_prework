@@ -23,18 +23,16 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/vT7RYGi' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=' https://imgur.com/a/vT7RYGi ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!--ScreenToGif -->
-GIF created with ...  
+GIF created with ScreenToGif 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 
 The most challenging part was the 7th challenge because I glanzed over the part that said they were already sorted, so I was a bit confused
 at first. However, after I read properly and looked the the given examples I figured out how to complete the challenge.
